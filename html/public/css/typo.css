@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Champion';
+    src: url('../fonts/typo/Champion-HTF-Middleweight.eot');
+    src: url('../fonts/typo/Champion-HTF-Middleweight.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/typo/Champion-HTF-Middleweight.woff2') format('woff2'),
+        url('../fonts/typo/Champion-HTF-Middleweight.woff') format('woff'),
+        url('../fonts/typo/Champion-HTF-Middleweight.ttf') format('truetype'),
+        url('../fonts/typo/Champion-HTF-Middleweight.svg#Champion-HTF-Middleweight') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Houschka Pro';
+    src: url('../fonts/typo/HouschkaPro-ExtraBold.eot');
+    src: url('../fonts/typo/HouschkaPro-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/typo/HouschkaPro-ExtraBold.woff2') format('woff2'),
+        url('../fonts/typo/HouschkaPro-ExtraBold.woff') format('woff'),
+        url('../fonts/typo/HouschkaPro-ExtraBold.ttf') format('truetype'),
+        url('../fonts/typo/HouschkaPro-ExtraBold.svg#HouschkaPro-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Houschka Pro';
+    src: url('../fonts/typo/HouschkaPro-Medium.eot');
+    src: url('../fonts/typo/HouschkaPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/typo/HouschkaPro-Medium.woff2') format('woff2'),
+        url('../fonts/typo/HouschkaPro-Medium.woff') format('woff'),
+        url('../fonts/typo/HouschkaPro-Medium.ttf') format('truetype'),
+        url('../fonts/typo/HouschkaPro-Medium.svg#HouschkaPro-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
